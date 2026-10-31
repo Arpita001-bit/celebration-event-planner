@@ -5,19 +5,9 @@
 
 ---
 
-## 🌟 Quick Start
 
-The application is completely zero-dependency and runs instantly on any browser or local Node.js environment:
 
-```bash
-# Option 1: Run the local high-performance server
-node server.js
 
-# Then open in your browser:
-http://localhost:3000
-```
-
-> **Direct Browser Option:** You can also open `index.html` directly in Google Chrome, Microsoft Edge, or Safari!
 
 ---
 
